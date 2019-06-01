@@ -1,0 +1,1 @@
+raw 地址 https://raw.githubusercontent.com/SoleGH/gfwlist/master/autoProxy.txt
