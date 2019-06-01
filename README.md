@@ -1,1 +1,1 @@
-raw 地址 https://raw.githubusercontent.com/SoleGH/gfwlist/master/autoProxy.txt
+获取该文件原始数据（RAW）链接，并把该链接填入为规则列表网址 地址 https://raw.githubusercontent.com/SoleGH/gfwlist/master/autoProxy.txt
