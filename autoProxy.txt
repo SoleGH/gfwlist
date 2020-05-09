@@ -1,3 +1,4 @@
 ||github.com
 ||google.com
 ||stackoverflow.com
+||facebook.com
