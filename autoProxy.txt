@@ -3,3 +3,4 @@
 ||google.com
 ||stackoverflow.com
 ||facebook.com
+||jetbrains.com
