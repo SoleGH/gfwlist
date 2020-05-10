@@ -1,5 +1,5 @@
 ||github.com
+||desktop.githubusercontent.com
 ||google.com
 ||stackoverflow.com
 ||facebook.com
-||github
